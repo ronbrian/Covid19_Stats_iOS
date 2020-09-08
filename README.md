@@ -7,7 +7,13 @@ This is a simple App I made to track the spread of Covid-19 for me and my family
 This App is intended as an experiment in API and UX design. It uses GraphQL and a set of experimental tools to integrate it with SwiftUI. It is not intended to be your main source of information. Make sure you consult multiple sources when it comes to informing yourself about sensitive topics.
 
 
-![](demo.gif)
+![](Screen1.png)
+.........................
+![](Screen2.png)
+.........................
+![](Screen3.png)
+.........................
+![](Screen4.png)
 
 ## How does this work
 
