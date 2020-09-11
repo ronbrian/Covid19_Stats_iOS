@@ -1,4 +1,4 @@
-# CovidUI
+# CovidVisualiser - (SwiftUI)
 
 
 
@@ -21,6 +21,6 @@ This App is intended as an experiment in API and UX design. It uses GraphQL and 
 .........................
 ![](Screen4.png)
 
-## How does this work
+
 
 
