@@ -2,7 +2,7 @@
 
 
 
-CovidUI is a simple App to Track the status of Covid-19 around the World.
+This is a simple App to Track the status of Covid-19 around the World.
 
 It's querying the data from [CovidQL](https://github.com/nerdsupremacist/CovidQL) which is loading data from [NovelCOVID](https://github.com/novelcovid/api)
 
